@@ -1,3 +1,2 @@
 # SPL-Project
-# Customer Credit Data 
-# does this change??
+# Customer Credit Data Analysis
